@@ -25,12 +25,12 @@ This application can serve as a foundation for hospital and clinic information m
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, feel free to reach out:
+If you have any questions, suggestions, or would like to connect, feel free to reach out:
 
-- Your Name: Pranithjain
-- LinkedIn: [Pranithjain](https://www.linkedin.com/in/pranithjain/)
-- Twitter: [@Pranithjain](https://twitter.com/Pranithjain)
-
+- Your Name: [Pranithjain](mailto:pranithjainbp84@gmail.com)
+- LinkedIn: [Pranithjain](https://www.linkedin.com/in/pranith-jain-bp-a2704024b/)
+- Twitter: [Pranithjain](https://twitter.com/PranithJain84/)
+- 
 ## Contribution
 
 Contributions to this project are welcome! If you're interested in enhancing the functionality or design of the system, follow these steps:
