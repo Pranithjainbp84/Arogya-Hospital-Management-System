@@ -30,15 +30,6 @@ If you have any questions, suggestions, or would like to connect, feel free to r
 - Your Name: [Pranithjain](mailto:pranithjainbp84@gmail.com)
 - LinkedIn: [Pranithjain](https://www.linkedin.com/in/pranith-jain-bp-a2704024b/)
 - Twitter: [Pranithjain](https://twitter.com/PranithJain84/)
-- 
-## Contribution
-
-Contributions to this project are welcome! If you're interested in enhancing the functionality or design of the system, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or improvement.
-3. Implement your changes and commit them with clear messages.
-4. Push your changes to your forked repository.
-5. Open a pull request describing your changes and their impact.
+  
 
 Thank you for your interest in the Arogya Hospital Information Management System project. We hope it proves to be a valuable solution for managing medical information effectively.
